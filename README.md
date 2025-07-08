@@ -5,6 +5,9 @@
 
 An Obsidian plugin inspired by Cursor AI's tab functionality. When you pause while typing, the AI automatically analyzes the context and shows you a preview of the next text to come.
 
+To install the Korean version, please visit:
+  https://github.com/reaboyki/ai_writing_assistant_ko
+
 ## Key Features
 
 ### Automatic Text Prediction
